@@ -1,0 +1,8 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    error_contains: 'IndentationError:'
+  then: parece haver um problema com a tabulação, correto? Certifique-se de que `if`
+    esteja tabulado para a esquerda com respeito ao `def`, e que cada um dos ramos
+    também esteja tabulado para a esquerda com respeito ao `if`
