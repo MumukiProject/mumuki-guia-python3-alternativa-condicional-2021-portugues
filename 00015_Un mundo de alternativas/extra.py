@@ -1,7 +1,7 @@
-def listo(): 
+def pronto(): 
   pass
 
-def saludar_a(quien, horario):
+def cumprimentar_a(quien, horario):
   if horario < 12:
     return "Buenos días " + quien
   elif horario < 19:
@@ -9,7 +9,7 @@ def saludar_a(quien, horario):
   else: 
     return "Buenas noches " + quien
     
-def saludar_a_recargado(quien, horario):
+def cumprimentar_a_recarregado(quien, horario):
   if horario < 19:
     return "Buenas tardes " + quien
   elif horario < 12:

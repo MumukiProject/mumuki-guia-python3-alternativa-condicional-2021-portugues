@@ -1,3 +1,3 @@
-Como vemos, el **orden importa** :exploding_head:. 
+Como vemos, a **ordem é importante** :exploding_head:.
 
-La condición de `hora < 12` incluye a la condición de `hora < 19`, o en otras palabras, si la segunda se cumple, la primera también. Cuando sucede esto tenemos que tener cuidado y ordenar adecuadamente las condiciones :nerd:
+A condição de `hora < 12` inclui a condição de `hora < 19`, ou em outras palavras, se cumpre a segunda, a primeira também. Quando isso acontece precisamos ter cuidado e organizar adequadamente as condições :nerd:
