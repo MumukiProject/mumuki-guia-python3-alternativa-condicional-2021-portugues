@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:saludar_a
+  inspection: Declares:cumprimentar_a
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity1:saludar_a
+  inspection: DeclaresComputationWithArity1:cumprimentar_a
