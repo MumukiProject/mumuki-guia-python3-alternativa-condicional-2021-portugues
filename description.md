@@ -1,5 +1,5 @@
-Hasta ahora, todas las funciones que hicimos sabían con bastante precisión qué iban a recibir y siempre hacían exactamente lo mismo: operar dos o más strings, hacer una cuenta, evaluar una expresión booleana, y así. 
+Até agora, todas as funções que criamos sabiam exatamente o que iriam receber e sempre faziam exatamente a mesma coisa: operar em duas ou mais strings, fazer uma contagem, avaliar uma expressão booleana e assim por diante.
 
-Pero en esta lección nos introduciremos en el mundo de lo desconocido, donde la programación cobra aún mucho más sentido. Con la herramienta que veremos podremos resolver problemas nuevos y evitar errores que hasta ahora no podíamos: según lo que recibamos, podremos hacer cuentas diferentes, transformar a nuestros strings de formas distintas, y así. 
+Mas nesta lição entraremos em um mundo desconhecido, onde a programação faz ainda mais sentido. Com a ferramenta que veremos poderemos resolver novos problemas e evitar erros que até agora não podíamos: dependendo do que recebermos, poderemos fazer contas diferentes, transformar nossas strings de maneiras diferentes e assim por diante .
 
-¿Y cómo haremos esto? Utilizando la capacidad de la computadora para **tomar decisiones**: la _alternativa condicional_ o sentencia `if`.
+E como faremos isso? Utilizando a capacidade do computador para **tomar decisões**: a _alternativa condicional_ ou sentença `if`.
