@@ -14,9 +14,9 @@ Mas como poderíamos conseguir isso? Nenhuma introdução à linguagem Python es
 ```python
 def cumprimentar_a(quem, horario):
   if horario < 19:
-	return "Bom dia " + quem
+    return "Bom dia " + quem
   else:
-	return "Boa noite " + quem
+    return "Boa noite " + quem
 ```
 
 > :hourglass_flowing_sand: Reserve alguns minutos para ler este `if` e tentar entender o que está acontecendo aqui. E depois tente o seguinte no console:
