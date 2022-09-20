@@ -1,38 +1,38 @@
   
   # positivos menores a 100 diferentes de 15
   
-  def test_es_numero_de_la_suerte_2_es_verdadero(self):
+  def test_é_numero_da_sorte_2_é_verdadeiro(self):
     self.assertTrue(e_numero_da_sorte(2))
 
-  def test_es_numero_de_la_suerte_5_es_verdadero(self):
+  def test_é_numero_da_sorte_5_é_verdadeiro(self):
     self.assertTrue(e_numero_da_sorte(5))
 
-  def test_es_numero_de_la_suerte_9_es_verdadero(self):
+  def test_é_numero_da_sorte_9_é_verdadeiro(self):
     self.assertTrue(e_numero_da_sorte(9))
 
-  def test_es_numero_de_la_suerte_45_es_verdadero(self):
+  def test_é_numero_da_sorte_45_é_verdadeiro(self):
     self.assertTrue(e_numero_da_sorte(45))
     
-  def test_es_numero_de_la_suerte_97_es_verdadero(self):
+  def test_é_numero_da_sorte_97_é_verdadeiro(self):
     self.assertTrue(e_numero_da_sorte(97))  
     
   # mayores a 100
   
-  def test_es_numero_de_la_suerte_101_es_falso(self):
+  def test_é_numero_da_sorte_101_é_falso(self):
     self.assertFalse(e_numero_da_sorte(101))
 
-  def test_es_numero_de_la_suerte_12456_es_falso(self):
+  def test_é_numero_da_sorte_12456_é_falso(self):
     self.assertFalse(e_numero_da_sorte(12456))
 
-  def test_es_numero_de_la_suerte_3003_es_falso(self):
+  def test_é_numero_da_sorte_3003_é_falso(self):
     self.assertFalse(e_numero_da_sorte(3003))
 
   # negativos
 
-  def test_es_numero_de_la_suerte_es_falso_si_es_negativo(self):
+  def test_é_numero_da_sorte_é_falso_se_é_negativo(self):
     self.assertFalse(e_numero_da_sorte(-3))
 
   # el 15
 
-  def test_es_numero_de_la_suerte_15_es_falso(self):
+  def test_é_numero_da_sorte_15_é_falso(self):
     self.assertFalse(e_numero_da_sorte(15))
