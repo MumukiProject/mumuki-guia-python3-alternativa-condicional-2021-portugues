@@ -1,4 +1,4 @@
-Queremos saber o valor das [cartas do truco](https://es.wikipedia.org/wiki/Truco_argentino) quando jogamos o _envido_. Sabemos que:
+Queremos saber o valor das [cartas do truco](https://www.ludijogos.com/multiplayer/truco-argentino/regras/) quando jogamos o _envido_. Sabemos que:
 
 * todas as cartas de 1 a 7, inclusive, têm numeração válida
 * as cartas de 10 a 12, inclusive, valem 0
