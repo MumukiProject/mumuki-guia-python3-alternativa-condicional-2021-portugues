@@ -1,3 +1,3 @@
-# modificá esta función
+# Modifique esta solução
 #...previousSolution...#
 
