@@ -6,9 +6,9 @@
     self.assertEqual(decisao_com_moeda("cara", "churrasco", "empanado"), "churrasco")
 
   def test_decisão_com_moeda_coroa_pizza_empanado_é_empanado(self):
-    self.assertEqual(decisao_com_moeda("ceca", "pizza", "empanado"), "empanado")
+    self.assertEqual(decisao_com_moeda("coroa", "pizza", "empanado"), "empanado")
 
   def test_decisão_com_moeda_coroa_pizza_massas_é_massas(self):
-    self.assertEqual(decisao_com_moeda("ceca", "pizza", "massas"), "massas")
+    self.assertEqual(decisao_com_moeda("coroa", "pizza", "massas"), "massas")
 
 
