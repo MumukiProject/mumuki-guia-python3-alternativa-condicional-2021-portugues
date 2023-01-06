@@ -9,7 +9,7 @@ Por isso, agora gostaríamos de modificar nossa função `cumprimentar_a` para q
 "Boa noite Feli"
 ```
 
-Mas como poderíamos conseguir isso? Nenhuma introdução à linguagem Python estaria completa sem mostrar _a estrutura de controle _ mais famosa da programação: a alternativa condicional!
+Mas como poderíamos conseguir isso? Nenhuma introdução à linguagem Python estaria completa sem mostrar _a estrutura de controle_ mais famosa da programação: a alternativa condicional!
 
 ```python
 def cumprimentar_a(quem, horario):
@@ -22,7 +22,7 @@ def cumprimentar_a(quem, horario):
 > :hourglass_flowing_sand: Reserve alguns minutos para ler este `if` e tentar entender o que está acontecendo aqui. E depois tente o seguinte no console:
 >
 >  1. cumprimente a `"Juli"` às `18`
->  2. cumprimente a `"Pun Pun"` às `19`
+>  2. cumprimente a `"Punpun"` às `19`
 >
 > Acontece o que você esperava? :thinking:
 

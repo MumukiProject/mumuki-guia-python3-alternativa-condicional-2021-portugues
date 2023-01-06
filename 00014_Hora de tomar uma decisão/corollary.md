@@ -7,4 +7,4 @@ Na programação dizemos que o `if` é _uma estrutura de controle_ porque permit
 É por isso que:
 
 * quando cumprimentamos a Juli às 18 h executa-se `return "Bom dia " + quem`;
-* mas quando cumprimentamos a Pun Pun às 19 horas (atenção :eye:, 19 **não é menor que** 19)  executa-se `"Boa noite " + quem`.
+* mas quando cumprimentamos a Punpun às 19 horas (atenção :eye:, 19 **não é menor que** 19)  executa-se `"Boa noite " + quem`.
