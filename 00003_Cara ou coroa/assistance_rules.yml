@@ -4,5 +4,5 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     error_contains: 'IndentationError:'
   then: parece que há um problema com a tabulação, não é mesmo? Certifique-se de que
-    `if` esteja tabulado para a esquerda com respeito ao `def`, e que cada um dos
-    ramos também esteja tabulado para a esquerda com respeito ao `if`
+    `if` esteja recuado à direita em relação ao `def`, e que cada um dos ramos também
+    esteja recuado para a direita com respeito ao `if`
