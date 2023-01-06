@@ -13,7 +13,7 @@ def valor_absoluto(numero):
 
 ...e vamos colocar nome para cada parte da alternativa condicional:  
 
- 1. em primeiro lugar, temos a _condição_, que é o que decide qual a ação que vamos executar. Poderia ser qualquer _expressão booleana_, ou dito de forma simples qualquer coisa que represente uma "pergunta" que possa ser respondida com sim (`True`) ou não (`False`);
+ 1. em primeiro lugar, temos a _condição_, que é o que decide qual a ação que vamos executar. Poderia ser qualquer _expressão booleana_, ou dito de forma simples, qualquer coisa que represente uma "pergunta" que possa ser respondida com sim (`True`) ou não (`False`);
  2. logo está _a ação_ do `if`, que retornará o que queremos no caso de que a condição anterior seja **verdadeira**;
  3. por último contamos con  _a ação_ do `else`, que retornará o que queremos no caso de que a condição anterior seja **falsa**.
 
