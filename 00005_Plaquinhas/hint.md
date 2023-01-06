@@ -3,7 +3,7 @@ Observe que os espaços para separar as palavras também são caracteres. Não s
 Por exemplo:
 
 ```python
-ム "Pepe" + " " + "Palotes"
-"Pepe Palotes"
+ム "Juracy" + " " + "Rosa"
+"Juracy Rosa"
 ```
 
