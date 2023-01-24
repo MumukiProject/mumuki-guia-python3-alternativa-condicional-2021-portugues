@@ -8,7 +8,7 @@ O júri de um torneio pediu que desenvolvêssemos uma função `medalha_segundo_
 
 ```python
 ム medalha_segundo_colocacao(1)
-"oro"
+"ouro"
 ム medalha_segundo_colocacao(5)
 "nada"
 ```
