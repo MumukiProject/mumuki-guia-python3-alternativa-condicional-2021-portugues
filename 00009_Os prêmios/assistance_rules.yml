@@ -1,7 +1,6 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     error_contains: 'IndentationError:'
   then: parece que há um problema com a tabulação, não é mesmo? Certifique-se de que
     `if` esteja tabulado para a esquerda com respeito ao `def`, e que cada um dos
